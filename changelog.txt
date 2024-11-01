@@ -1,0 +1,22 @@
+=== Spodccg - CryptoCurrency Gateway For Woocommerce ===
+
+= 1.2.3 =
+* Switch Sessions to use Transients instead, better performance, less api calls
+
+= 1.2.2 =
+* Fix issue with low priced products not calculating correctly
+
+= 1.2.1 =
+* Fix session not clearing when updating admin settings
+* Fix issue with very very low value crypto price not being output correctly
+
+= 1.2.0 =
+* Rework API retrieve function to only make the call once
+    -Increase performance of checkout page
+    -Less credits required for the coinmarketcap API
+
+= 1.0.1 =
+* Fix address breaking out of container
+
+= 1.0.0 =
+* First Stable version released

@@ -1,0 +1,18 @@
+/**Styles for Spodccg****/
+#payment .payment_methods li .payment_method_spodccg{ padding: 1em;}
+#spodccg-field-box {background: #16222A;background: -webkit-gradient(linear, left top, right top, from(#3A6073), to(#16222A));background: -o-linear-gradient(left, #3A6073, #16222A);background: linear-gradient(to right, #3A6073, #16222A);padding: 1em;margin-top: 1em;}
+#spodccg-field-box .spodccg-payment-panel {background: #fff;padding: 0.5em;border: 2px solid #ff9800;margin-bottom:1em;}
+#spodccg-field-box .spodccg-total-ccg {background: #eee;padding: 0.5em;border: 2px solid #ff9800;color: #000;}
+#spodccg-field-box .spodccg-payment-panel img.spodccg-qrcode-img {margin: 2em auto;display: block;background: #fff;float: none;max-height: none;}
+#spodccg-field-box .spodccg-ccg-address {background: #eee;border: solid 1px #ddd;text-align: center;}
+#spodccg-field-box #spodccgtooltip {font-size: 10px;text-decoration: none;position: absolute;right: calc(50% - 110px);top: 0px;text-transform: uppercase;font-family: arial, sans-serif;}
+#spodccg-field-box .spodccg-ccg-txt-tooltip {margin: 0 auto;display: block;text-align: center;}
+#spodccg-field-box .spodccg-ccg-txt-tooltip a {text-decoration: none;position: relative;display: inline-block;text-align: center;margin: 0.5em auto 1em;-webkit-box-shadow: 0px 5px 11px 1px #cdcdcd;box-shadow: 0px 5px 10px 1px #12121270;padding: 13px 0px 14px;color: #000;font-family: arial, sans-serif;font-size: 16px;background: #FF8008;background: -webkit-gradient(linear, left top, right top, from(#FFC837), to(#FF8008));background: -o-linear-gradient(left, #FFC837, #FF8008);background: linear-gradient(to right, #FFC837, #FF8008);color: #fff;width: 100%;font-weight: bold;}
+#spodccg-field-box #spodccgaddress:focus-visible {outline:none!important;}
+#spodccg-field-box #ccg_txid_field {border: 2px solid #d13535;}
+#spodccg-field-box p {color: #fff;}
+#spodccg-field-box #spodccgaddress {background: #eee;border:none;font-size: 14px;color: #000;text-align: center;resize: none;padding: 20px 12px;-webkit-box-shadow: none;box-shadow: none;vertical-align: middle;}
+#spodccg-field-box #spodccgaddress-hidden {position: absolute; left: -10000000px;}
+#spodccg-field-box svg {position: relative;margin: 0 auto 0em;display: inline-block;top: 4px;padding-left: 5px;}
+#spodccg-field-box #spodccgamount {background: #eee;border:none;font-size: 14px;color: #000;text-align: center;resize: none;padding: 20px 12px;-webkit-box-shadow: none;box-shadow: none;vertical-align: middle;}
+#spodccg-field-box #spodccgamount-hidden {position: absolute; left: -10000000px;}
